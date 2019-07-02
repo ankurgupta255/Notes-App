@@ -3,7 +3,7 @@ A Comand Line Controlled Application made using NodeJs which can store your Note
 
 ### Prerequisites: 
 Firstly Clone the repository in your computer and open the command line in the folder.
-Then run npm install to install all the dependencies
+Then run ```npm install``` to install all the dependencies
 
 How to Use: 
 ### Adding a note: 
