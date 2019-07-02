@@ -1,11 +1,11 @@
 # Notes-App
 A Comand Line Controlled Application made using NodeJs which can store your Notes(containing a Title and a Description).
 
-### Prerequisites: 
+## Prerequisites: 
 Firstly Clone the repository in your computer and open the command line in the folder.
 Then run ```npm install``` to install all the dependencies
 
-How to Use: 
+## How to Use: 
 ### Adding a note: 
 ```node app.js add --title="Title of the Note" --body="Body of the note"```
 
